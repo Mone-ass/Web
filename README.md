@@ -137,7 +137,6 @@
             <p>&copy; 2025 Вкусная кухня. Все права защищены.</p>
         </div>
     </footer>
-
     <script src="js/script.js"></script>
 </body>
 </html>
